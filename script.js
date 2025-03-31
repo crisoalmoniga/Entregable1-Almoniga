@@ -1,6 +1,6 @@
 // Datos base
 const servicios = ["Corte", "Color", "Peinado"];
-const horarios = ["10:00", "11:00", "12:00", "14:00", "15:00"];
+const horarios = ["10:30", "11:00", "12:00", "14:00", "15:00"];
 const turnosTomados = [];
 
 // Función 1: Mostrar menú
