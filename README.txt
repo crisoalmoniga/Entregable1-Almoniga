@@ -12,7 +12,7 @@ Este proyecto es un simulador interactivo de turnos para una peluquería, desarr
 - Posibilidad de reservar múltiples turnos en una sola sesión.
 
 📁 Estructura del proyecto
-Entregable1Cristian/
+Entregable1-Almoniga/
 ├── index.html        // Archivo HTML con descripción del proyecto
 ├── script.js         // Lógica principal en JavaScript
 └── README.txt        // Archivo descriptivo del proyecto
